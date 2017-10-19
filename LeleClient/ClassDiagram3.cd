@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CustomListView_Demo.listv">
+    <Position X="1.25" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="CustomListView_Demo.listv.EditOk">
+        <TypeIdentifier>
+          <NewMemberFileName>userlist.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Struct Name="CustomListView_Demo.listv.rect">
+        <TypeIdentifier>
+          <NewMemberFileName>userlist.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="CustomListView_Demo.listv.Win32">
+        <TypeIdentifier>
+          <NewMemberFileName>userlist.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAAAAAAQAAAAAAQASAAAAAIAIIQAABAAAAAA=</HashCode>
+      <FileName>userlist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
