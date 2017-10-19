@@ -1,0 +1,33 @@
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\LeleClient.exe.config
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\LeleClient.exe.manifest
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\LeleClient.application
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\LeleClient.exe
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\LeleClient.pdb
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\CompositeControls.dll
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\usercontrol.dll
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Release\usercontrol.pdb
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Release\LeleClient.csprojResolveAssemblyReference.cache
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Release\LeleClient.Form1.resources
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Release\LeleClient.Properties.Resources.resources
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Release\LeleClient.csproj.GenerateResource.Cache
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Release\LeleClient.exe.manifest
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Release\LeleClient.application
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Release\LeleClient.exe
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Release\LeleClient.pdb
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Release\LeleClient.exe.config
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Release\LeleClient.exe
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Release\LeleClient.pdb
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Release\LeleClient.exe.manifest
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Release\LeleClient.application
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Release\LeleClient.exe
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Release\LeleClient.pdb
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Release\CompositeControls.dll
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Release\usercontrol.pdb
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Release\LeleClient.csprojResolveAssemblyReference.cache
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Release\LeleClient.Form1.resources
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Release\LeleClient.Properties.Resources.resources
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Release\LeleClient.csproj.GenerateResource.Cache
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Release\LeleClient.exe.manifest
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Release\LeleClient.application

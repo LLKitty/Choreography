@@ -551,11 +551,12 @@ namespace LeleClient
         public bool runs = false;
         private void runFromHead_Click(object sender, EventArgs e)
         {
-            if (!backgroundWorker1.IsBusy)
-            {
-                backgroundWorker1.RunWorkerAsync();
-                runs = true;
-            }
+            ///if (!backgroundWorker1.IsBusy)
+            ///{
+            ///    backgroundWorker1.RunWorkerAsync();
+            ///    runs = true;
+            ///}
+            writeServoData_Tcp(1, 255, 0x04, (UInt16)int.Parse(actionDisplayList.SelectedItems[0].SubItems[1].Text));
         }
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {

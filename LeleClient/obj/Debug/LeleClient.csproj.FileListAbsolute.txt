@@ -1,0 +1,39 @@
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\bin\Debug\LeleClient.exe.config
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\obj\Debug\LeleClient.exe
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\obj\Debug\LeleClient.pdb
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\obj\Debug\LeleClient.Form1.resources
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\obj\Debug\LeleClient.Properties.Resources.resources
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\obj\Debug\LeleClient.csproj.GenerateResource.Cache
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\bin\Debug\LeleClient.exe
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\bin\Debug\LeleClient.pdb
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\bin\Debug\usercontrol.pdb
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient_o\LeleClient\bin\Debug\usercontrol.dll
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\LeleClient.exe.config
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\LeleClient.exe.manifest
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\LeleClient.application
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\LeleClient.exe
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\LeleClient.pdb
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\Microsoft.DirectX.dll
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\usercontrol.dll
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\bin\Debug\usercontrol.pdb
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Debug\LeleClient.Form1.resources
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Debug\LeleClient.Properties.Resources.resources
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Debug\LeleClient.csproj.GenerateResource.Cache
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Debug\LeleClient.exe.manifest
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Debug\LeleClient.application
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Debug\LeleClient.exe
+C:\Users\wangxu\Documents\Visual Studio 2015\Projects\LeleClient\LeleClient\obj\Debug\LeleClient.pdb
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Debug\LeleClient.exe.config
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Debug\LeleClient.exe
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Debug\LeleClient.pdb
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Debug\LeleClient.exe.manifest
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Debug\LeleClient.application
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Debug\LeleClient.exe
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\bin\Debug\LeleClient.pdb
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Debug\LeleClient.Form1.resources
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Debug\LeleClient.Properties.Resources.resources
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Debug\LeleClient.csproj.GenerateResource.Cache
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Debug\LeleClient.exe.manifest
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Debug\LeleClient.application
+C:\Users\wangxu\Desktop\控制端+服务端V8.0\LeleClient\LeleClient\obj\Debug\LeleClient.csprojResolveAssemblyReference.cache
